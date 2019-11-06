@@ -98,6 +98,7 @@ img {
     padding: -3rem;
     margin-right: 1rem;
     font-size: 1rem;
+    cursor: pointer;
   }
 
   .spookyphotos {
@@ -137,7 +138,7 @@ img {
   }
 }
 
-@media (min-width: 1025px) and (max-width: 1280px) {
+@media (min-width: 1025px) {
   h6 {
     display: none;
   }
